@@ -18,6 +18,7 @@
         </activity>
 
         <activity android:name=".time.DateStudyActivity" android:exported="true"/>
+        <activity android:name=".time.SystemClockActivity" android:exported="true"/>
     </application>
 
 </manifest>
